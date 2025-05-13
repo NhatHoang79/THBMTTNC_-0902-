@@ -1,0 +1,1 @@
+so_gio_lam = float(input("Nhập số giờ làm mỗi tuần: "))
